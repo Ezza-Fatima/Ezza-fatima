@@ -3,8 +3,7 @@
 #### Technical Skills: Word, java, Excell, MATLAB,Powerpoint
 
 ## Education
-- BS(Mathematics) |Gift University - Gujranwala - Pakistan)	 			        		
-- BS(Mathematics) | GIFT University - Gujranwala - Pakistan (_december 2022_)
+- BS(Mathematics) |Gift University - Gujranwala - Pakistan 			        		
 
 ## Work Experience
 
