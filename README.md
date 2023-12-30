@@ -1,10 +1,10 @@
-# Data Scientist
+# Ezza fatima
 
-#### Technical Skills: Python, SQL, java, Snowflake, MATLAB
+#### Technical Skills: Word, java, Excell, MATLAB,Powerpoint
 
 ## Education
-- M.S,Computer Science | University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
-- B.S,Software Engineering | GIFT University - Gujranwala - Pakistan (_Oct 2021_)
+- BS(Mathematics) |Gift University - Gujranwala - Pakistan)	 			        		
+- BS(Mathematics) | GIFT University - Gujranwala - Pakistan (_december 2022_)
 
 ## Work Experience
 
