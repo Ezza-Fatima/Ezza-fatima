@@ -1,6 +1,6 @@
 # Ezza fatima
 
-#### Technical Skills: Word, java, Excell, MATLAB,Powerpoint
+#### Technical Skills: Word, java, Excel, MATLAB, Powerpoint
 
 ## Education
 - BS(Mathematics) |Gift University - Gujranwala - Pakistan 			        		
